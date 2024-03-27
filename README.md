@@ -4,6 +4,8 @@ Controlling led brightness depending on face from camera distance
 # set up info
 distance.py - main program
 
+fire.py - fireplace animation for a led matrix (square 10x7 leds with left/right sides)
+
 Neopixel led strip data wire connected to MOSI pin on raspberry PI 5
 
 Camera connected to raspberry pi usb port
