@@ -1,7 +1,19 @@
 # ledsOnPi5
 Controlling led brightness depending on face from camera distance
 
+______________________________________________________________________________________
+
 # set up info
+
+sudo apt install python3-spidev
+
+sudo apt install python3-opencv
+
+
+
+_______________________________________________________________________________________
+
+
 distance.py - main program
 
 fire.py - fireplace animation for a led matrix (square 10x7 leds with left/right sides). 
