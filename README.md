@@ -5,11 +5,9 @@ ________________________________________________________________________________
 
 # set up info
 
-sudo apt install python3-spidev
+neopixel_spidev.py (included in /lib/)
 
 sudo apt install python3-opencv
-
-
 
 _______________________________________________________________________________________
 
